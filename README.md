@@ -27,4 +27,4 @@
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=chauhan-yuvraj&show_icons=true&locale=en&layout=compact" alt="chauhan-yuvraj" width="300" />
   &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=chauhan-yuvraj&show_icons=true&locale=en" alt="chauhan-yuvraj" width="350"/>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=chauhan-yuvraj&" alt="chauhan-yuvraj" width="300"  /></p>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=chauhan-yuvraj&" alt="chauhan-yuvraj" width="350"  /></p>
