@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chauhan-yuvraj&label=Profile%20views&color=0e75b6&style=flat" alt="chauhan-yuvraj" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chauhan-yuvraj" alt="chauhan-yuvraj" /></a> </p>
-
 - 🔭 I’m currently working on <a href="https://chauhan-yuvraj.github.io/cars/"> <img align="center" src="https://seeklogo.com/images/P/Pixar_Cars_-_Rusteze-logo-CD235902CE-seeklogo.com.png" alt="Rust-eze" width="40"/> </a>
 
 - 🌱 I’m currently learning **React js , jetpack compose**
