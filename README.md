@@ -1,10 +1,10 @@
 <h1 align="center">Hi there !!👋, I'm Chauhan Yuvraj</h1>
 <h3 align="center">"Code Artisan 🎨 | Crafting Experiences in Code 🚀"</h3>
-<img align="center" width=700 alt="coding" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="Right" width=700 alt="coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGV0ZzV4dzlzM3E0Z3Jvd2tpbjN5bnMwbW1pcTdobXNvcmF4aWdtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chauhan-yuvraj&label=Profile%20views&color=0e75b6&style=flat" alt="chauhan-yuvraj" /> </p>
 
-- 🔭 I’m currently working on <img align="center" src="https://imgs.search.brave.com/DjKEFnPXI5pbEE6j0pJ6Nha5AgIemTV2ahz7dUFR3Ys/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy13b3JsZC5uZXQv/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MTEvVW5pdmVyc2Fs/LUxvZ28tNzAweDM5/NC5wbmc" alt="Universal" width="40"/> </a>
+- 🔭 I’m currently working on <img align="center" src="https://imgs.search.brave.com/DjKEFnPXI5pbEE6j0pJ6Nha5AgIemTV2ahz7dUFR3Ys/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy13b3JsZC5uZXQv/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MTEvVW5pdmVyc2Fs/LUxvZ28tNzAweDM5/NC5wbmc" alt="Universal" width="60"/> </a>
 
 - 🌱 I’m currently learning **React js , jetpack compose**
 
