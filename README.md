@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chauhan-yuvraj&label=Profile%20views&color=0e75b6&style=flat" alt="chauhan-yuvraj" /> </p>
 
-- 🔭 I’m currently working on <a href="https://chauhan-yuvraj.github.io/cars/"> <img align="center" src="https://seeklogo.com/images/P/Pixar_Cars_-_Rusteze-logo-CD235902CE-seeklogo.com.png" alt="Rust-eze" width="40"/> </a>
+- 🔭 I’m currently working on <img align="center" src="[https://seeklogo.com/images/P/Pixar_Cars_-_Rusteze-logo-CD235902CE-seeklogo.com.png](https://imgs.search.brave.com/DjKEFnPXI5pbEE6j0pJ6Nha5AgIemTV2ahz7dUFR3Ys/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy13b3JsZC5uZXQv/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MTEvVW5pdmVyc2Fs/LUxvZ28tNzAweDM5/NC5wbmc)" alt="Rust-eze" width="40"/> </a>
 
 - 🌱 I’m currently learning **React js , jetpack compose**
 
