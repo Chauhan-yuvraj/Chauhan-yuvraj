@@ -1,28 +1,76 @@
-<h1 align="center">Hi there !!👋, I'm Chauhan Yuvraj</h1>
-<h3 align="center">"Code Artisan 🎨 | Crafting Experiences in Code 🚀"</h3>
-<img align="Right" width=700 alt="coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGV0ZzV4dzlzM3E0Z3Jvd2tpbjN5bnMwbW1pcTdobXNvcmF4aWdtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif">
+<a href="https://visitorbadge.io/status?path=Chauhan_Yuvraj"><img align="right" src="https://api.visitorbadge.io/api/visitors?path=Chauhan_Yuvraj&label=VISITOR&countColor=%23263759&labelStyle=upper" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chauhan-yuvraj&label=Profile%20views&color=0e75b6&style=flat" alt="chauhan-yuvraj" /> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yuvarj!;" />
+</h1>
 
-- 🔭 I’m currently working on <img align="center" src="https://imgs.search.brave.com/DjKEFnPXI5pbEE6j0pJ6Nha5AgIemTV2ahz7dUFR3Ys/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy13b3JsZC5uZXQv/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MTEvVW5pdmVyc2Fs/LUxvZ28tNzAweDM5/NC5wbmc" alt="Universal" width="60"/> </a>
+<h3 align="center">A passionate software developer from Gujarat India </h3>
 
-- 🌱 I’m currently learning **React js , jetpack compose**
+<br/>
 
-- 💬 Ask me about **HTML , CSS , JS ,kotlin**
+<div align="center">
+ 
+ 🔭 I’m currently working on  <img src="https://logos-world.net/wp-content/uploads/2021/11/Universal-Logo-700x394.png" width=50px/>
+ 
+ 🌱 I’m currently learning **React, Kotlin, DSA**
 
-- 📫 How to reach me **chauhanyuvraj1770@gmail.com**
+💬 Ask me about **React, JavaScript, Html , CSS...**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chauhan yuvraj" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="chauhan yuvraj" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/chauhan yuvraj" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="chauhan yuvraj" height="30" width="40" /></a>
-<a href="https://instagram.com/uv_izhere" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="uv_izhere" height="30" width="40" /></a>
-<a href="https://discord.gg/yuvi#2270" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="yuvi#2270" height="30" width="40" /></a>
-</p>
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css3" width="40" height="40"/> </a> <a href="https://sass-lang.com/" target="_blank" rel="nonreferrer">  <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="SCSS" width="40" height="40"></a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:chauhanyuvraj1770@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/chauhan-yuvraj-b41a5a237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://chauhan-yuvraj.github.io/Updated-/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=chauhan-yuvraj&show_icons=true&locale=en&layout=compact" alt="chauhan-yuvraj" width="300" />
-  &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=chauhan-yuvraj&show_icons=true&locale=en" alt="chauhan-yuvraj" width="300"/>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=chauhan-yuvraj&" alt="chauhan-yuvraj" width="350"/></p>
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,kotlin,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,firebase,androidstudio" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
