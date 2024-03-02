@@ -45,9 +45,8 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+<!--   <h2>🐍 My Contributions 🐍</h2> -->
     
-![snake gif](https://github.com/Chauhan-yuvraj/Chauhan-yuvraj/blob/output/github-contribution-grid-snake.gif)
   <br>
  
   
