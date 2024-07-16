@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on  <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Angular_Logo_SVG.svg" width=50px/>
  
-💬 Ask me about **Web Development **
+💬 Ask me about **Web Development**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
