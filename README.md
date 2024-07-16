@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on  <img src="https://logos-world.net/wp-content/uploads/2021/11/Universal-Logo-700x394.png" width=50px/>
+ 🔭 I’m currently working on  <img src="[https://logos-world.net/wp-content/uploads/2021/11/Universal-Logo-700x394.png](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png)" width=50px/>
  
  🌱 I’m currently learning **React, Kotlin, DSA**
 
