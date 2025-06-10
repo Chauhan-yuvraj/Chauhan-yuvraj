@@ -1,7 +1,7 @@
 <a href="https://visitorbadge.io/status?path=Chauhan_Yuvraj"><img align="right" src="https://api.visitorbadge.io/api/visitors?path=Chauhan_Yuvraj&label=VISITOR&countColor=%23263759&labelStyle=upper" /></a>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yuvarj!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yuvraj!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Gujarat India </h3>
