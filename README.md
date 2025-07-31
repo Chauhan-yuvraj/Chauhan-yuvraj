@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on  <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Angular_Logo_SVG.svg" width=50px/>
+ 🔭 I’m currently working on  <img src="[https://upload.wikimedia.org/wikipedia/commons/0/07/Angular_Logo_SVG.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png)" width=50px/>
  
 💬 Ask me about **Web Development**
 
